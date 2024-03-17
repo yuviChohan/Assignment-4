@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Authentication Integration
+Integrated authentication functionality using Firebase authentication.
+Implemented sign-in and sign-out functionality using GitHub authentication.
+Managed user authentication state throughout the application using React context.
+
+## Weather Page
+Created a weather page to display weather information.
+Utilized the OpenWeatherMap API to fetch weather data.
+Implemented conditional rendering based on user authentication status.
+Styled the weather page to enhance user experience.
